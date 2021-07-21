@@ -1,7 +1,7 @@
 # U.S.-Aerospace-and-Defense-Showcase-Scraping-Scrpit
 
 
-To run script, make sure you have the pandas, beautifulsoupm selenium, and chromedriver binary modules installed. 
+To run script, make sure you have the pandas, beautifulsoup selenium, and chromedriver binary modules installed. 
 
 https://www.selenium.dev/downloads/
 https://pypi.org/project/bs4/
